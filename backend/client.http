@@ -26,5 +26,3 @@ Content-Type: application/json
 ###
 
 @roomId = {{createRoom.response.body.$.roomId}}
-
-###
